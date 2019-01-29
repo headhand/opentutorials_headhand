@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<html>
     <body>
         <li>
@@ -9,5 +10,13 @@
         <ul>
             테스트 2
         </ul>
+=======
+<html>
+    <head>
+        Git
+    </head>
+    <body>
+        test
+>>>>>>> 실험
     </body>
 </html>
