@@ -19,6 +19,9 @@
             <li>
                 test 5
             </li>
+            <li>
+                동기화
+            </li>
         </ul>
     </body>
 </html>
